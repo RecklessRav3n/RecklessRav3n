@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RecklessRav3n
+- 🌱 I’m currently learning C# & Unity by myself. I will be pursuing some university studies in IT and 2D and 3D modeling and animation.
+- 😄 Pronouns: She/Her
